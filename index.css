@@ -1,3 +1,11 @@
+body {
+    font-family: roboto mono;
+}
+
+h1 {
+    font-family: chelsea market;
+}
+
 .header-1 {
     background-color: #FF764E;
 }
