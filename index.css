@@ -6,6 +6,10 @@ h1 {
     font-family: chelsea market;
 }
 
+span {
+    font-weight: bold;
+}
+
 footer {
     background-color: #F9E7DC;
 }
