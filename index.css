@@ -1,5 +1,6 @@
 body {
     font-family: roboto mono;
+    margin: 10%;
 }
 
 h1 {
@@ -18,16 +19,43 @@ footer {
     background-color: #DDB9A3;
 }
 
+.header {
+    text-align: center;
+    margin: 4%;
+}
+
+.header-img {
+    padding:5%;
+    border-radius: 50%;
+    height:15%;
+    width: 15%;
+}
+
 .header-1 {
     background-color: #FF764E;
+    color:white;
+    padding:1%;
+    border:5%;
+    margin: 10%;
+    border-radius: 12px;
 }
 
 .header-2 {
     background-color: #5ED3EB;
+    color: white;
+    padding:1%;
+    border:5%;
+    margin: 10%;
+    border-radius: 12px;
 }
 
 .header-3 {
     background-color: #FFCD69;
+    color: white;
+    padding:1%;
+    border:5%;
+    margin: 10%;
+    border-radius: 12px;
 }
 
 .footer-1 {
